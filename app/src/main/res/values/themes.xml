@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PlantGrid" parent="Theme.MaterialComponents.Light" />
+</resources>
